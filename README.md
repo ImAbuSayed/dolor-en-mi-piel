@@ -1,4 +1,4 @@
-# Dolor en mi piel
+# Dolor en mi piel, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Dolor en mi piel |
+| **Title** | Dolor en mi piel, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dolor-en-mi-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dolor en mi piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-mi-piel/) |
+| **Get License** | [Music Rights & Licensing for Dolor en mi piel, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dolor-en-mi-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dolor en mi piel cuando no estás
+> Tu fuego en mi ser no se va
+> Bailando en la noche, ciudad de cristal
+> Tu nombre en mi boca, ven, dame más
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0649bc780c98bb75dee54955803f7c5dcdb1141aadb81b875e15993b8c4a0924` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
